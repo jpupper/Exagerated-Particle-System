@@ -7,9 +7,13 @@ This is an exagerated particle sistem made in procssing. It has all the control 
 
 Librerías requeridas - Libraries required: 
   
-  1)Spout. 
-  2)ControlP5
-  3)Processing video.
-
-
+  <ul>
+    <li>Spout.</li> 
+    <li>ControlP5</li>
+    <li>Processing video.</li>
+  </ul>
+ <img src="https://github.com/jpupper/Exagerated-Particle-System/blob/master/Untitled-4.png" width="640" height="366"/>
+ <img src="https://github.com/jpupper/Exagerated-Particle-System/blob/master/Untitled-5.png" width="640" height="366"/>
+ <img src="https://github.com/jpupper/Exagerated-Particle-System/blob/master/Untitled-7.png" width="640" height="366"/>
+ <img src="https://github.com/jpupper/Exagerated-Particle-System/blob/master/Untitled-8.png" width="640" height="366"/>
 
