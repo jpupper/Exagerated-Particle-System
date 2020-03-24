@@ -5,6 +5,9 @@ Esto es un sistema de particulas en processing. Tiene todos los valores que se m
 
 This is an exagerated particle sistem made in procssing. It has all the control of the params that i could imagine that could be controlled. This is in 2D. It has a range where you can select a value of a range of values. 
 
+
+Link with explaneishion : https://www.youtube.com/watch?v=rnaiwCG7lSo&feature=youtu.be
+
 Librerías requeridas - Libraries required: 
   
   <ul>
@@ -17,3 +20,9 @@ Librerías requeridas - Libraries required:
  <img src="https://github.com/jpupper/Exagerated-Particle-System/blob/master/Untitled-7.png" width="640" height="366"/>
  <img src="https://github.com/jpupper/Exagerated-Particle-System/blob/master/Untitled-8.png" width="640" height="366"/>
 
+
+PLEASE CONTRIBUTE SO I DON´T STARVE TO DEATH. 
+
+Patreon : https://www.patreon.com/jpupper
+
+Bitcoin :1FZAo2PZLb321NBzMpMe2PHVdC59AC02n1
