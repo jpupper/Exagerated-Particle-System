@@ -1,0 +1,115 @@
+{
+  "/SpeedX": {
+    "lowValue": 0,
+    "highValue": 0
+  },
+  "/SpeedY": {
+    "lowValue": 0,
+    "highValue": 0
+  },
+  "/fondo": {"arrayValue": []},
+  "/ShapeAlpha": {
+    "lowValue": 255,
+    "highValue": 255
+  },
+  "/Npoints": {
+    "lowValue": 13.00885009765625,
+    "highValue": 26.283185958862305
+  },
+  "/Border": {
+    "lowValue": 0,
+    "highValue": 0.06637167930603027
+  },
+  "/BorderSaturation": {
+    "lowValue": 0,
+    "highValue": 9.026548385620117
+  },
+  "/iscolorarray": {"value": 0},
+  "/BorderHue": {
+    "lowValue": 33.84955596923828,
+    "highValue": 64.31415557861328
+  },
+  "/Topspeed": {
+    "lowValue": 3.9823007583618164,
+    "highValue": 4.955752372741699
+  },
+  "/ActivarAtractor": {"value": 0},
+  "/ShapeSaturation": {
+    "lowValue": 197.45574951171875,
+    "highValue": 255
+  },
+  "/displayimage": {"value": 0},
+  "/Amplitud X": {
+    "lowValue": -7.787610054016113,
+    "highValue": 10.619468688964844
+  },
+  "/MostrarAtractor": {"value": 0},
+  "/isbg": {"value": 1},
+  "/Amplitud Y": {
+    "lowValue": -7.256636619567871,
+    "highValue": 7.78761100769043
+  },
+  "/seguir": {"value": 0},
+  "/spoutactive": {"value": 0},
+  "/BorderAlpha": {
+    "lowValue": 56.415931701660156,
+    "highValue": 84.62389373779297
+  },
+  "/ShapeHue": {
+    "lowValue": 0,
+    "highValue": 33.84955596923828
+  },
+  "/AcelerationX": {
+    "lowValue": 0,
+    "highValue": 0
+  },
+  "/life": {
+    "lowValue": 1,
+    "highValue": 1.7964601516723633
+  },
+  "/AcelerationY": {
+    "lowValue": 0,
+    "highValue": 0
+  },
+  "/atractor": {"value": -0.4999990463256836},
+  "/Size_rdm": {
+    "lowValue": 0,
+    "highValue": 2.2123894691467285
+  },
+  "/Size": {
+    "lowValue": 0,
+    "highValue": 15.044248580932617
+  },
+  "/spawnradius": {
+    "min": 0,
+    "max": 1000,
+    "value": 36.000003814697266
+  },
+  "/BorderBrightness": {
+    "lowValue": 253.87168884277344,
+    "highValue": 253.87168884277344
+  },
+  "/Random": {
+    "lowValue": 0,
+    "highValue": 0
+  },
+  "/ShapeBrightness": {
+    "lowValue": 223.40708923339844,
+    "highValue": 255
+  },
+  "/WASD": {
+    "min": 0,
+    "max": 20,
+    "value": 5
+  },
+  "/ParticleOAttractor": {"value": 1},
+  "/showframerate": {"value": 0},
+  "/Angular speed X": {
+    "lowValue": 0,
+    "highValue": 6.283185958862305
+  },
+  "/Angular speed Y": {
+    "lowValue": 0,
+    "highValue": 4.2477874755859375
+  }
+}
