@@ -1,11 +1,11 @@
 {
   "/SpeedX": {
-    "lowValue": -1.0619468688964844,
-    "highValue": 1.0619468688964844
+    "lowValue": 0.7079658508300781,
+    "highValue": 0.7079658508300781
   },
   "/SpeedY": {
-    "lowValue": -2.654867172241211,
-    "highValue": 1.5929203033447266
+    "lowValue": -1.0619468688964844,
+    "highValue": 0.35398292541503906
   },
   "/fondo": {"arrayValue": []},
   "/ShapeAlpha": {
@@ -30,8 +30,8 @@
     "highValue": 255
   },
   "/Topspeed": {
-    "lowValue": 2.1238937377929688,
-    "highValue": 3.0973453521728516
+    "lowValue": 0.8849557638168335,
+    "highValue": 1.769911527633667
   },
   "/ActivarAtractor": {"value": 0},
   "/ShapeSaturation": {
@@ -40,8 +40,8 @@
   },
   "/displayimage": {"value": 0},
   "/Amplitud X": {
-    "lowValue": -8.849557876586914,
-    "highValue": 11.150444030761719
+    "lowValue": -2.1238937377929688,
+    "highValue": 1.0619468688964844
   },
   "/MostrarAtractor": {"value": 0},
   "/isbg": {"value": 1},
@@ -74,16 +74,16 @@
   "/atractor": {"value": 0.9999971389770508},
   "/Size_rdm": {
     "lowValue": 0,
-    "highValue": 18.584070205688477
+    "highValue": 18.14159393310547
   },
   "/Size": {
-    "lowValue": 0,
-    "highValue": 6.194690227508545
+    "lowValue": 0.8849557638168335,
+    "highValue": 153.9822998046875
   },
   "/spawnradius": {
     "min": 0,
     "max": 1000,
-    "value": 208
+    "value": 584.0000610351562
   },
   "/BorderBrightness": {
     "lowValue": 168.11947631835938,
@@ -91,7 +91,7 @@
   },
   "/Random": {
     "lowValue": 0,
-    "highValue": 0
+    "highValue": 1.6814159154891968
   },
   "/ShapeBrightness": {
     "lowValue": 207.61061096191406,
